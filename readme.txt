@@ -2,9 +2,9 @@
 Contributors: muskie
 Donate link: http://www.muschamp.ca/
 Tags: random, quotation
-Requires at least: 
-Tested up to: 
-Stable tag: 
+Requires at least: 2.2.0
+Tested up to: 3.2.1
+Stable tag: trunk
 
 This plugin displays a random quotation upon page load pulled from a simple .csv file.
 
@@ -18,7 +18,7 @@ There are token css classes/ids to allow you to style the quotations however you
 
 <h4 id="quoationSource">Dante Alighieri:</h4><blockquote id="randomQuotation">There is no greater sorrow than thinking back upon a happy time in misery.</blockquote>
 
-You just need to add a #quotationSource and a #randomQuotation CSS rules or just let the chips fall where they may.  This 
+You just need to add a #quotationSource and a #randomQuotation CSS rules or just let the chips fall where they may.
 
 This is my first WordPress plugin it isn't terribly clever.  I eventually looked at the original plugin, hello.php and combined with my experience
 writing mashups just cranked it out.
